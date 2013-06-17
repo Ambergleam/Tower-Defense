@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level_list>
+<lvl filename = "level_0.xml">Line</lvl>
+<lvl filename = "level_1.xml">Snake</lvl>
+<lvl filename = "level_2.xml">Spiral</lvl>
+<lvl filename = "level_3.xml">Ditto</lvl>
+<lvl filename = "level_L2R.xml">L2R</lvl>
+<lvl filename = "level_R2L.xml">R2L</lvl>
+<lvl filename = "level_U2D.xml">U2D</lvl>
+<lvl filename = "level_D2U.xml">D2U</lvl>
+</level_list>
